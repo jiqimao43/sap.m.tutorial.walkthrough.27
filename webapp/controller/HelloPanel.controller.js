@@ -12,7 +12,7 @@ sap.ui.define([
 			var sRecipient = this.getView().getModel().getProperty("/recipient/name");
 			var sMsg = oBundle.getText("helloMsg", [sRecipient]);
 
-			// show message
+			// show message 2
 			MessageToast.show(sMsg);
 		},
 
