@@ -1,0 +1,40 @@
+{
+  "run": [
+    {
+      "filePath": "/webapp/test/mockServer.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 4225767,
+        "runnerId": "webapprunner",
+        "displayName": "Run mockServer.html",
+        "lastRunTimeStamp": 1546851328740
+      }
+    },
+    {
+      "filePath": "/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 7714012,
+        "runnerId": "webapprunner",
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1546848243790
+      }
+    }
+  ]
+}
