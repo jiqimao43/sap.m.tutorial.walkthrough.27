@@ -16,7 +16,7 @@ sap.ui.define([
 		open : function () {
 			var oView = this._oView;
 			var oDialog = oView.byId("helloDialog");
-
+			
 			// create dialog lazily
 			if (!oDialog) {
 				var oFragmentController = {
